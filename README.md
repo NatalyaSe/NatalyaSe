@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NatalyaSe
+- 👋 Hi, I’m NatalyaSe, 2nd year student of the CMC MSU
 - 👀 I’m interested in big data
 - 🌱 I’m currently learning c++, python, sql
 - 📫 How to reach me: you can write me to natalyaselu@gmail.com
